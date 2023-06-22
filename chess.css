@@ -1,0 +1,686 @@
+body{
+    background:white;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.container{
+    height: 100%;
+    width: auto;
+    border: 2px solid;
+    background-color:white;
+    justify-content: center;
+    align-items: center;
+}
+.row1{
+    display: flex;
+}
+.box1{
+    height:  100px;
+    width: 80px;
+    background-color: aqua;
+    color:white;
+    flex-grow: 1;
+   
+
+}
+
+.box2{
+    height:  100px;
+    width: 80px;
+    background-color: plum;
+    color:white;
+    flex-grow: 1;  
+
+}
+
+.box3{  
+    height:  100px;
+    width: 80px;
+    background-color: aqua;
+    color:white;
+    flex-grow: 1;
+}
+.box4{
+    height:  100px;
+    width: 80px;
+    background-color: plum;
+    color:white;
+    flex-grow: 1;
+}
+
+.box5{  
+    height:  100px;
+    width: 80px;
+    background-color: aqua;
+    color:white;
+    flex-grow: 1;
+}
+.box6{
+    height:  100px;
+    width: 80px;
+    background-color: plum;
+    color:white;
+    flex-grow: 1;
+}
+
+.box7{ 
+    height:  100px;
+    width: 80px;
+    background-color: aqua;
+    color:white;
+    flex-grow: 1;
+}
+.box8{
+    height:  100px;
+    width: 80px;
+    background-color: plum;
+    color:white;
+    flex-grow: 1;
+}
+
+.row2{
+    display: flex;}
+
+    .box9{
+        height:  100px;
+        width: 80px;
+        background-color:plum;
+        color:white;
+        flex-grow: 1;
+       
+    
+    }
+    
+    .box10{
+        height:  100px;
+        width: 80px;
+        background-color:aqua;
+        color:white;
+        flex-grow: 1;
+       
+    
+    }
+    
+    .box11{  
+        height:  100px;
+        width: 80px;
+        background-color:plum;
+        color:white;
+        flex-grow: 1;
+       
+    }
+    .box12{
+        height:  100px;
+        width: 80px;
+        background-color:aqua;
+        color:white;
+        flex-grow: 1;
+    }
+    
+    .box13{ 
+        height:  100px;
+        width: 80px;
+        background-color:plum;
+        color:white;
+        flex-grow: 1;
+       
+    }
+    .box14{
+        height:  100px;
+        width: 80px;
+        background-color:aqua;
+        color:white;
+        flex-grow: 1;
+    }
+    
+    .box15{   
+        height:  100px;
+        width: 80px;
+        background-color:plum;
+        color:white;
+        flex-grow: 1;
+       
+    }
+    .box16{
+        height:  100px;
+        width: 80px;
+        background-color:aqua;
+        color:white;
+        flex-grow: 1;
+    }
+
+    .row3{
+        display: flex;
+    }
+    .box17{
+        height:  100px;
+        width: 80px;
+        background-color: aqua;
+        color:white;
+        flex-grow: 1;
+       
+    
+    }
+    
+    .box18{
+        height:  100px;
+        width: 80px;
+        background-color: plum;
+        color:white;  
+        flex-grow: 1;
+    }
+    
+    .box19{  
+        height:  100px;
+        width: 80px;
+        background-color: aqua;
+        color:white;
+        flex-grow: 1;
+    }
+    .box20{
+        height:  100px;
+        width: 80px;
+        background-color: plum;
+        color:white;
+        flex-grow: 1;
+    }
+    
+    
+        
+        .box21{   
+            height:  100px;
+            width: 80px;
+            background-color: aqua;
+            color:white;
+            flex-grow: 1;
+           
+        }
+        .box22{
+            height:  100px;
+            width: 80px;
+            background-color: plum;
+            color:white;
+            flex-grow: 1;
+        }
+        
+        .box23{   
+            height:  100px;
+            width: 80px;
+            background-color: aqua;
+            color:white;
+            flex-grow: 1;
+           
+        }
+        .box24{
+            height:  100px;
+            width: 80px;
+            background-color: plum;
+            color:white;
+            flex-grow: 1;
+        }
+        
+        .row4{
+            display: flex;}
+        
+            .box25{
+                height:  100px;
+                width: 80px;
+                background-color:plum;
+                color:white;
+                flex-grow: 1;
+               
+            
+            }
+            
+            .box26{
+                height:  100px;
+                width: 80px;        
+                background-color:aqua;
+                color:white;
+                flex-grow: 1;
+            
+            }
+            
+            .box27{  
+                height:  100px;
+                width: 80px;
+                background-color:plum;
+                color:white;
+                flex-grow: 1;
+               
+            }
+            .box28{
+                height:  100px;
+                width: 80px;
+                background-color:aqua;
+                color:white;
+                flex-grow: 1;
+            }
+            
+            .box29{  
+                height:  100px;
+                width: 80px;
+                background-color:plum;
+                color:white;
+                flex-grow: 1;
+               
+            }
+            .box30{
+                height:  100px;
+                width: 80px;
+                background-color:aqua;
+                color:white;
+                flex-grow: 1;
+            }
+            
+            .box31{   
+                height:  100px;
+                width: 80px;
+                background-color:plum;
+                color:white;
+                flex-grow: 1;
+               
+            }
+            .box32{
+                height:  100px;
+                width: 80px;
+                background-color:aqua;
+                color:white;
+                flex-grow: 1;
+            }
+        
+        
+        
+
+
+
+            .row5{
+                display: flex;
+            }
+            .box33{
+                height:  100px;
+                width: 80px;
+                background-color: aqua;
+                color:white;
+                flex-grow: 1;
+                
+            
+             
+            
+            }
+            
+            .box34{
+                height:  100px;
+                width: 80px;
+                background-color: plum;
+                color:white;  
+                flex-grow: 1;
+            }
+            
+            .box35{   
+                height:  100px;
+                width: 80px;
+                background-color: aqua;
+                color:white;
+                flex-grow: 1;
+            }
+            .box36{
+                height:  100px;
+                width:80px;
+                background-color: plum;
+                color:white;
+                flex-grow: 1;
+            }
+            
+            .box37{   height:  100px;
+                width:80px;
+                background-color: aqua;
+                color:white;
+                flex-grow: 1;
+              
+
+            }
+            .box38{
+                height: 100px;
+                width:80px;
+                background-color: plum;
+                color:white;
+                flex-grow: 1;
+            }
+            
+            .box39{   height:  100px;
+                width:80px;
+                background-color: aqua;
+                color:white;
+                flex-grow: 1;
+            }
+            .box40{
+                height:  100px;
+                width:80px;
+                background-color: plum;
+                color:white;
+                flex-grow: 1;
+            }
+            
+            .row6{
+                display: flex;}
+            
+                .box41{
+                    height:  100px;
+                    width:80px;
+                    background-color:plum;
+                    color:white;
+                    flex-grow: 1;
+                
+                }
+                
+                .box42{
+                    height:  100px;
+                    width:80px;
+                    background-color:aqua;
+                    color:white;
+                    flex-grow: 1;
+                
+                }
+                
+                .box43{  
+                     height:100px;
+                    width:80px;
+                    background-color:plum;
+                    color:white;
+                    flex-grow: 1;
+                }
+                .box44{
+                    height: 100px;
+                    width:80px;
+                    background-color:aqua;
+                    color:white;
+                    flex-grow: 1;
+                }
+                
+                .box45{   height:  100px;
+                    width:80px;
+                    background-color:plum;
+                    color:white;
+                    flex-grow: 1;
+                   
+                }
+                .box46{
+                    height:  100px;
+                    width:80px;
+                    background-color:aqua;
+                    color:white;
+                    flex-grow: 1;
+                }
+                
+                .box47{   height: 100px;
+                    width:80px;
+                    background-color:plum;
+                    color:white;
+                    flex-grow: 1;
+                }
+                .box48{
+                    height: 100px;
+                    width:80px;
+                    background-color:aqua;
+                    color:white;
+                    flex-grow: 1;
+                }
+            
+                .row7{
+                    display: flex;
+                }
+                .box49{
+                    height:  100px;
+                    width:80px;
+                    background-color: aqua;
+                    color:white;
+                    flex-grow: 1;
+                }
+                
+                .box50{
+                    height: 100px;
+                    width:80px;
+                    background-color: plum;
+                    color:white;  
+                    flex-grow: 1;
+                
+                }
+                
+                .box51{   height: 100px;
+                    width:80px;
+                    background-color: aqua;
+                    color:white;
+                    flex-grow: 1;
+                   
+                }
+                .box52{
+                    height:  100px;
+                    width:80px;
+                    background-color: plum;
+                    color:white;
+                    flex-grow: 1;
+                }
+                
+                .box53{   height:  100px;
+                    width:80px;
+                    background-color: aqua;
+                    color:white;
+                    flex-grow: 1;
+                }
+                .box54{
+                    height: 100px;
+                    width:80px;
+                    background-color: plum;
+                    color:white;
+                    flex-grow: 1;
+                }
+                
+                .box55{   height:  100px;
+                    width:80px;
+                    background-color: aqua;
+                    color:white;
+                    flex-grow: 1;
+                   
+                }
+                .box56{
+                    height:  100px;
+                    width: 80px;
+                    background-color: plum;
+                    color:white;
+                    flex-grow: 1;
+                }
+                
+                .row8{
+                    display: flex;}
+                
+                    .box57{
+                        height: 100px;
+                        width:80px;
+                        background-color:plum;
+                        color:white;
+                        flex-grow: 1;
+                    
+                    }
+                    
+                    .box58{
+                        height:  100px;
+                        width:80px;
+                        background-color:aqua;
+                        color:white;
+                       
+                        flex-grow: 1;
+                    }
+                    
+                    .box59{  
+                         height: 100px;
+                        width:80px;
+                        background-color:plum;
+                        color:white;
+                        flex-grow: 1;
+                    }
+                    .box60{
+                        height: 100px;
+                        width:80px;
+                        background-color:aqua;
+                        color:white;
+                        flex-grow: 1;
+                    }
+                    
+                    .box61{   height:  100px;
+                        width:80px;
+                        background-color:plum;
+                        color:white;
+                        flex-grow: 1;
+                       
+                    }
+                    .box62{
+                        height:  100px;
+                        width:80px;
+                        background-color:aqua;
+                        color:white;
+                        flex-grow: 1;
+                    }
+                    
+                    .box63{   height: 100px;
+                        width:80px;
+                        background-color:plum;
+                        color:white;
+                        flex-grow: 1;
+                       
+                    }
+                    .box64{
+                        height: 100px;
+                        width:80px;
+                        background-color:aqua;
+                        color:white;
+                        flex-grow: 1;
+                    }
+                
+                
+            
+                    
+                    .row{
+                        display: flex;
+                    }
+                    .box17{
+                        height:  100px;
+                        width:80px;
+                        background-color: aqua;
+                        color:white;
+                       
+                    
+                    }
+                    
+                    .box18{
+                        height: 100px;
+                        width:80px;
+                        background-color: plum;
+                        color:white;  
+                    
+                    }
+                    
+                    .box19{   height: 100px;
+                        width:80px;
+                        background-color: aqua;
+                        color:white;
+                       
+                    }
+                    .box20{
+                        height:  100px;
+                        width:80px;
+                        background-color: plum;
+                        color:white;
+                    }
+                    
+                    .box21{   height:  100px;
+                        width:80px;
+                        background-color: aqua;
+                        color:white;
+                       
+                    }
+                    .box22{
+                        height: 100px;
+                        width:80px;
+                        background-color: plum;
+                        color:white;
+                    }
+                    
+                    .box23{   height:  100px;
+                        width:80px;
+                        background-color: aqua;
+                        color:white;
+                       
+                    }
+                    .box24{
+                        height:  100px;
+                        width:80px;
+                        background-color: plum;
+                        color:white;
+                    }
+                    
+                    .row4{
+                        display: flex;}
+                    
+                        .box25{
+                            height:  100px;
+                            width:80px;
+                            background-color:plum;
+                            color:white;
+                           
+                        
+                        }
+                        
+                        .box26{
+                            height:  100px;
+                            width:80px;
+                            background-color:aqua;
+                            color:white;
+                           
+                        
+                        }
+                        
+                        .box27{  
+                             height:100px;
+                            width:80px;
+                            background-color:plum;
+                            color:white;
+                           
+                        }
+                        .box28{
+                            height: 100px;
+                            width:80px;
+                            background-color:aqua;
+                            color:white;
+                        }
+                        
+                        .box29{   height:  100px;
+                            width:80px;
+                            background-color:plum;
+                            color:white;
+                           
+                        }
+                        .box30{
+                            height:  100px;
+                            width:80px;
+                            background-color:aqua;
+                            color:white;
+                        }
+                        
+                        .box31{   height: 100px;
+                            width:80px;
+                            background-color:plum;
+                            color:white;
+                           
+                        }
+                        .box32{
+                            height: 100px;
+                            width:80px;
+                            background-color:aqua;
+                            color:white;
+                        }
+                    
+                    
+                    
+            
